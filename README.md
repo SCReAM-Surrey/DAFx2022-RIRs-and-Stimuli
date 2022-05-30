@@ -5,4 +5,4 @@ Room Impulse Responses created with the methods proposed and discussed in the DA
 License
 -------
 
-[![License: CC0 1.0]]
+License: CC0 1.0
